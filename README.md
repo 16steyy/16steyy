@@ -16,13 +16,13 @@
 ## 🎀 Tech Stack & Tools
 
 <div align="center">
-
-![](https://img.shields.io/badge/Rust-f7a8b8?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Tauri-5bcefa?style=for-the-badge&logo=tauri&logoColor=white)
-![](https://img.shields.io/badge/React-f7a8b8?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-5bcefa?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Python-f7a8b8?style=for-the-badge&logo=python&logoColor=white)
-
+  
+![](https://img.shields.io/badge/Rust-FFB7B2?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Tauri-FFDAC1?style=for-the-badge&logo=tauri&logoColor=white)
+![](https://img.shields.io/badge/React-E2F0CB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-B5EAD7?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-C7CEEA?style=for-the-badge&logo=python&logoColor=white)
+  
 </div>
 
 <br/>
