@@ -17,11 +17,11 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/Rust-FFB7B2?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Tauri-FFDAC1?style=for-the-badge&logo=tauri&logoColor=white)
-![](https://img.shields.io/badge/React-E2F0CB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-B5EAD7?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Python-C7CEEA?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Rust-F7A8B8?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Tauri-F7A8B8?style=for-the-badge&logo=tauri&logoColor=white)
+![](https://img.shields.io/badge/React-F7A8B8?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-F7A8B8?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-F7A8B8?style=for-the-badge&logo=python&logoColor=white)
   
 </div>
 
